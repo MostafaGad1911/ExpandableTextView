@@ -1,4 +1,5 @@
-"# ExpandableTextView" 
+# ExpandableTextView
+
 
 Custom expadable text view
 
