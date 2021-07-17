@@ -45,7 +45,5 @@ Custom expadable text view
 ```         
 
 
- <img src="https://user-images.githubusercontent.com/25991597/126037149-051e9690-9da5-4720-b8fd-b02245640a4d.jpg"  width="300" height="550"   />
-
-
+ <img src="https://user-images.githubusercontent.com/25991597/126050696-ee85fbb5-0368-4e42-bfe8-fe92ae6b9c1c.gif"  width="300" height="550"   />
 	   
