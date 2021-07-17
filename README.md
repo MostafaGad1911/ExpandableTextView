@@ -44,6 +44,7 @@ Custom expadable text view
         
 ```         
 
+## Example
 
  <img src="https://user-images.githubusercontent.com/25991597/126050696-ee85fbb5-0368-4e42-bfe8-fe92ae6b9c1c.gif"  width="300" height="550"   />
 	   
