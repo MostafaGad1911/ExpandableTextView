@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="expandableview">
+        <attr name="underlineMaxlines" format="integer"/>
+        <attr name="underlineColor" format="color" />
+    </declare-styleable>
+
+</resources>

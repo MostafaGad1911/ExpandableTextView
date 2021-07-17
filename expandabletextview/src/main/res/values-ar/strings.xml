@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpandableTextView</string>
+
+    <string name="see">مشاهدة</string>
+    <string name="s_more">المزيد</string>
+    <string name="s_less">القليل</string>
+
+</resources>
