@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">ExpandableTextView</string>
-
     <string name="see">See</string>
     <string name="s_more">More</string>
     <string name="s_less">Less</string>
