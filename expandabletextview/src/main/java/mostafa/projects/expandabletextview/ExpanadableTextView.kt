@@ -100,6 +100,8 @@ class ExpandableTextView @JvmOverloads constructor(context: Context, attrs: Attr
         }
         return expandedStringBuilder
     }
+    
+    
 
     companion object {
         private var context: Context? = null
