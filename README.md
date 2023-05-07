@@ -40,7 +40,7 @@ Custom expadable text view
 
 ## Step 2 : Add the dependency
  ``` kotlin  
-        implementation 'com.github.MostafaGad1911:ExpandableTextView:1.0.0'
+        implementation 'com.github.MostafaGad1911:ExpandableTextView:1.1.1'
         
 ```         
 
